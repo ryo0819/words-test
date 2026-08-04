@@ -30,3 +30,24 @@ export interface QuizResultSummary {
   answers: UserAnswer[];
   totalTimeSec: number;
 }
+
+// Legacy Compatibility Types (for clean build compatibility)
+export interface PokemonData {
+  id: number;
+  name: string;
+  moves: {
+    move_name: string;
+    level: number;
+  }[];
+}
+
+export interface QuizItem {
+  id: number;
+  pokemon: string;
+  level: number;
+  correct: string;
+  dummy: string[];
+}
+
+export type GameStatus = 'START' | 'QUIZ' | 'RESULT';
+export type Generation = '1' | '2' | '3' | '4' | 'ENDLESS';
