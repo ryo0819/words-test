@@ -1,0 +1,4864 @@
+[
+    {
+        "id": 1,
+        "name": "フシギダネ",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "やどりぎのタネ",
+                "level": 7
+            },
+            {
+                "move_name": "つるのムチ",
+                "level": 13
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 20
+            },
+            {
+                "move_name": "はっぱカッター",
+                "level": 27
+            },
+            {
+                "move_name": "せいちょう",
+                "level": 34
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 41
+            },
+            {
+                "move_name": "ソーラービーム",
+                "level": 48
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "フシギソウ",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "やどりぎのタネ",
+                "level": 1
+            },
+            {
+                "move_name": "つるのムチ",
+                "level": 13
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 22
+            },
+            {
+                "move_name": "はっぱカッター",
+                "level": 30
+            },
+            {
+                "move_name": "せいちょう",
+                "level": 38
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 46
+            },
+            {
+                "move_name": "ソーラービーム",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "フシギバナ",
+        "moves": [
+            {
+                "move_name": "つるのムチ",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "やどりぎのタネ",
+                "level": 1
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 22
+            },
+            {
+                "move_name": "はっぱカッター",
+                "level": 30
+            },
+            {
+                "move_name": "せいちょう",
+                "level": 43
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 55
+            },
+            {
+                "move_name": "ソーラービーム",
+                "level": 65
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "ヒトカゲ",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "ひのこ",
+                "level": 9
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 15
+            },
+            {
+                "move_name": "いかり",
+                "level": 22
+            },
+            {
+                "move_name": "きりさく",
+                "level": 30
+            },
+            {
+                "move_name": "かえんほうしゃ",
+                "level": 38
+            },
+            {
+                "move_name": "ほのおのうず",
+                "level": 46
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "リザード",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "ひのこ",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 15
+            },
+            {
+                "move_name": "いかり",
+                "level": 24
+            },
+            {
+                "move_name": "きりさく",
+                "level": 33
+            },
+            {
+                "move_name": "かえんほうしゃ",
+                "level": 42
+            },
+            {
+                "move_name": "ほのおのうず",
+                "level": 56
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "リザードン",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "ひのこ",
+                "level": 1
+            },
+            {
+                "move_name": "いかり",
+                "level": 24
+            },
+            {
+                "move_name": "きりさく",
+                "level": 36
+            },
+            {
+                "move_name": "かえんほうしゃ",
+                "level": 46
+            },
+            {
+                "move_name": "ほのおのうず",
+                "level": 55
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "ゼニガメ",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "あわ",
+                "level": 8
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 15
+            },
+            {
+                "move_name": "かみつく",
+                "level": 22
+            },
+            {
+                "move_name": "からにこもる",
+                "level": 28
+            },
+            {
+                "move_name": "ロケットずつき",
+                "level": 35
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 42
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "カメール",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "あわ",
+                "level": 1
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 15
+            },
+            {
+                "move_name": "かみつく",
+                "level": 24
+            },
+            {
+                "move_name": "からにこもる",
+                "level": 31
+            },
+            {
+                "move_name": "ロケットずつき",
+                "level": 39
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 47
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "カメックス",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 1
+            },
+            {
+                "move_name": "あわ",
+                "level": 1
+            },
+            {
+                "move_name": "かみつく",
+                "level": 24
+            },
+            {
+                "move_name": "からにこもる",
+                "level": 31
+            },
+            {
+                "move_name": "ロケットずつき",
+                "level": 42
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 52
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "キャタピー",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "いとをはく",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "トランセル",
+        "moves": [
+            {
+                "move_name": "かたくなる",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "バタフリー",
+        "moves": [
+            {
+                "move_name": "ねんりき",
+                "level": 1
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 15
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 16
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 17
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 21
+            },
+            {
+                "move_name": "ふきとばし",
+                "level": 26
+            },
+            {
+                "move_name": "サイケこうせん",
+                "level": 32
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "ビードル",
+        "moves": [
+            {
+                "move_name": "どくばり",
+                "level": 1
+            },
+            {
+                "move_name": "いとをはく",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "コクーン",
+        "moves": [
+            {
+                "move_name": "かたくなる",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "スピアー",
+        "moves": [
+            {
+                "move_name": "みだれづき",
+                "level": 1
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 16
+            },
+            {
+                "move_name": "ダブルニードル",
+                "level": 20
+            },
+            {
+                "move_name": "いかり",
+                "level": 25
+            },
+            {
+                "move_name": "ミサイルばり",
+                "level": 30
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 35
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "ポッポ",
+        "moves": [
+            {
+                "move_name": "かぜおこし",
+                "level": 1
+            },
+            {
+                "move_name": "すなかけ",
+                "level": 5
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 12
+            },
+            {
+                "move_name": "ふきとばし",
+                "level": 19
+            },
+            {
+                "move_name": "つばさでうつ",
+                "level": 28
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 36
+            },
+            {
+                "move_name": "オウムがえし",
+                "level": 44
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "ピジョン",
+        "moves": [
+            {
+                "move_name": "かぜおこし",
+                "level": 1
+            },
+            {
+                "move_name": "すなかけ",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 12
+            },
+            {
+                "move_name": "ふきとばし",
+                "level": 21
+            },
+            {
+                "move_name": "つばさでうつ",
+                "level": 31
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 40
+            },
+            {
+                "move_name": "オウムがえし",
+                "level": 49
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "ピジョット",
+        "moves": [
+            {
+                "move_name": "かぜおこし",
+                "level": 1
+            },
+            {
+                "move_name": "すなかけ",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 1
+            },
+            {
+                "move_name": "ふきとばし",
+                "level": 21
+            },
+            {
+                "move_name": "つばさでうつ",
+                "level": 31
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 44
+            },
+            {
+                "move_name": "オウムがえし",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "コラッタ",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 7
+            },
+            {
+                "move_name": "ひっさつまえば",
+                "level": 14
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 23
+            },
+            {
+                "move_name": "いかりのまえば",
+                "level": 34
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "ラッタ",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 1
+            },
+            {
+                "move_name": "ひっさつまえば",
+                "level": 14
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 27
+            },
+            {
+                "move_name": "いかりのまえば",
+                "level": 41
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "オニスズメ",
+        "moves": [
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "つつく",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 9
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 15
+            },
+            {
+                "move_name": "オウムがえし",
+                "level": 22
+            },
+            {
+                "move_name": "ドリルくちばし",
+                "level": 29
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 36
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "オニドリル",
+        "moves": [
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "つつく",
+                "level": 1
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 15
+            },
+            {
+                "move_name": "オウムがえし",
+                "level": 25
+            },
+            {
+                "move_name": "ドリルくちばし",
+                "level": 34
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "アーボ",
+        "moves": [
+            {
+                "move_name": "まきつく",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "どくばり",
+                "level": 10
+            },
+            {
+                "move_name": "かみつく",
+                "level": 17
+            },
+            {
+                "move_name": "へびにらみ",
+                "level": 24
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 31
+            },
+            {
+                "move_name": "ようかいえき",
+                "level": 38
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "アーボック",
+        "moves": [
+            {
+                "move_name": "まきつく",
+                "level": 1
+            },
+            {
+                "move_name": "どくばり",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "かみつく",
+                "level": 17
+            },
+            {
+                "move_name": "へびにらみ",
+                "level": 27
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 36
+            },
+            {
+                "move_name": "ようかいえき",
+                "level": 47
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "ピカチュウ",
+        "moves": [
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "でんきショック",
+                "level": 1
+            },
+            {
+                "move_name": "でんじは",
+                "level": 9
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 16
+            },
+            {
+                "move_name": "スピードスター",
+                "level": 26
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 33
+            },
+            {
+                "move_name": "かみなり",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "ライチュウ",
+        "moves": [
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "でんきショック",
+                "level": 1
+            },
+            {
+                "move_name": "でんじは",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "サンド",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "すなかけ",
+                "level": 10
+            },
+            {
+                "move_name": "きりさく",
+                "level": 17
+            },
+            {
+                "move_name": "どくばり",
+                "level": 24
+            },
+            {
+                "move_name": "スピードスター",
+                "level": 31
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 38
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "サンドパン",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "すなかけ",
+                "level": 1
+            },
+            {
+                "move_name": "きりさく",
+                "level": 17
+            },
+            {
+                "move_name": "どくばり",
+                "level": 27
+            },
+            {
+                "move_name": "スピードスター",
+                "level": 36
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 47
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "ニドラン♀",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "ひっかく",
+                "level": 8
+            },
+            {
+                "move_name": "どくばり",
+                "level": 14
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 21
+            },
+            {
+                "move_name": "かみつく",
+                "level": 29
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 36
+            },
+            {
+                "move_name": "にどげり",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "ニドリーナ",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "どくばり",
+                "level": 14
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 23
+            },
+            {
+                "move_name": "かみつく",
+                "level": 32
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 41
+            },
+            {
+                "move_name": "にどげり",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "ニドクイン",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "のしかかり",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "どくばり",
+                "level": 14
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "ニドラン♂",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "つのでつく",
+                "level": 8
+            },
+            {
+                "move_name": "どくばり",
+                "level": 14
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 21
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 29
+            },
+            {
+                "move_name": "つのドリル",
+                "level": 36
+            },
+            {
+                "move_name": "にどげり",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "ニドリーノ",
+        "moves": [
+            {
+                "move_name": "つのでつく",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "どくばり",
+                "level": 14
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 23
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 32
+            },
+            {
+                "move_name": "つのドリル",
+                "level": 41
+            },
+            {
+                "move_name": "にどげり",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "ニドキング",
+        "moves": [
+            {
+                "move_name": "つのでつく",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "あばれる",
+                "level": 1
+            },
+            {
+                "move_name": "どくばり",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "ピッピ",
+        "moves": [
+            {
+                "move_name": "はたく",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "うたう",
+                "level": 13
+            },
+            {
+                "move_name": "おうふくビンタ",
+                "level": 18
+            },
+            {
+                "move_name": "ちいさくなる",
+                "level": 24
+            },
+            {
+                "move_name": "ゆびをふる",
+                "level": 31
+            },
+            {
+                "move_name": "まるくなる",
+                "level": 39
+            },
+            {
+                "move_name": "ひかりのかべ",
+                "level": 48
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "ピクシー",
+        "moves": [
+            {
+                "move_name": "おうふくビンタ",
+                "level": 1
+            },
+            {
+                "move_name": "うたう",
+                "level": 1
+            },
+            {
+                "move_name": "ちいさくなる",
+                "level": 1
+            },
+            {
+                "move_name": "ゆびをふる",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "ロコン",
+        "moves": [
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "ひのこ",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 16
+            },
+            {
+                "move_name": "ほえる",
+                "level": 21
+            },
+            {
+                "move_name": "あやしいひかり",
+                "level": 28
+            },
+            {
+                "move_name": "かえんほうしゃ",
+                "level": 35
+            },
+            {
+                "move_name": "ほのおのうず",
+                "level": 42
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "キュウコン",
+        "moves": [
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "ほえる",
+                "level": 1
+            },
+            {
+                "move_name": "ひのこ",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "プリン",
+        "moves": [
+            {
+                "move_name": "うたう",
+                "level": 1
+            },
+            {
+                "move_name": "はたく",
+                "level": 9
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 14
+            },
+            {
+                "move_name": "まるくなる",
+                "level": 19
+            },
+            {
+                "move_name": "おうふくビンタ",
+                "level": 24
+            },
+            {
+                "move_name": "ねむる",
+                "level": 29
+            },
+            {
+                "move_name": "のしかかり",
+                "level": 34
+            },
+            {
+                "move_name": "すてみタックル",
+                "level": 39
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "プクリン",
+        "moves": [
+            {
+                "move_name": "おうふくビンタ",
+                "level": 1
+            },
+            {
+                "move_name": "うたう",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "まるくなる",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "ズバット",
+        "moves": [
+            {
+                "move_name": "きゅうけつ",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 10
+            },
+            {
+                "move_name": "かみつく",
+                "level": 15
+            },
+            {
+                "move_name": "あやしいひかり",
+                "level": 21
+            },
+            {
+                "move_name": "つばさでうつ",
+                "level": 28
+            },
+            {
+                "move_name": "くろいきり",
+                "level": 36
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "ゴルバット",
+        "moves": [
+            {
+                "move_name": "かみつく",
+                "level": 1
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 1
+            },
+            {
+                "move_name": "きゅうけつ",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 10
+            },
+            {
+                "move_name": "あやしいひかり",
+                "level": 21
+            },
+            {
+                "move_name": "つばさでうつ",
+                "level": 32
+            },
+            {
+                "move_name": "くろいきり",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "ナゾノクサ",
+        "moves": [
+            {
+                "move_name": "すいとる",
+                "level": 1
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 15
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 17
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 19
+            },
+            {
+                "move_name": "ようかいえき",
+                "level": 24
+            },
+            {
+                "move_name": "はなびらのまい",
+                "level": 33
+            },
+            {
+                "move_name": "ソーラービーム",
+                "level": 46
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "クサイハナ",
+        "moves": [
+            {
+                "move_name": "すいとる",
+                "level": 1
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 1
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 1
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 19
+            },
+            {
+                "move_name": "ようかいえき",
+                "level": 28
+            },
+            {
+                "move_name": "はなびらのまい",
+                "level": 38
+            },
+            {
+                "move_name": "ソーラービーム",
+                "level": 52
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "ラフレシア",
+        "moves": [
+            {
+                "move_name": "ようかいえき",
+                "level": 1
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 1
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 1
+            },
+            {
+                "move_name": "はなびらのまい",
+                "level": 1
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 15
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "パラス",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 13
+            },
+            {
+                "move_name": "きゅうけつ",
+                "level": 20
+            },
+            {
+                "move_name": "キノコのほうし",
+                "level": 27
+            },
+            {
+                "move_name": "きりさく",
+                "level": 34
+            },
+            {
+                "move_name": "せいちょう",
+                "level": 41
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "パラセクト",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 1
+            },
+            {
+                "move_name": "きゅうけつ",
+                "level": 1
+            },
+            {
+                "move_name": "キノコのほうし",
+                "level": 30
+            },
+            {
+                "move_name": "きりさく",
+                "level": 39
+            },
+            {
+                "move_name": "せいちょう",
+                "level": 48
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "コンパン",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 24
+            },
+            {
+                "move_name": "きゅうけつ",
+                "level": 27
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 30
+            },
+            {
+                "move_name": "サイケこうせん",
+                "level": 35
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 38
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "モルフォン",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 1
+            },
+            {
+                "move_name": "きゅうけつ",
+                "level": 1
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 30
+            },
+            {
+                "move_name": "サイケこうせん",
+                "level": 38
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 43
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "ディグダ",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 15
+            },
+            {
+                "move_name": "あなをほる",
+                "level": 19
+            },
+            {
+                "move_name": "すなかけ",
+                "level": 24
+            },
+            {
+                "move_name": "きりさく",
+                "level": 31
+            },
+            {
+                "move_name": "じしん",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "ダグトリオ",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "あなをほる",
+                "level": 1
+            },
+            {
+                "move_name": "すなかけ",
+                "level": 24
+            },
+            {
+                "move_name": "きりさく",
+                "level": 35
+            },
+            {
+                "move_name": "じしん",
+                "level": 47
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "ニャース",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "かみつく",
+                "level": 12
+            },
+            {
+                "move_name": "ネコにこばん",
+                "level": 17
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 24
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 33
+            },
+            {
+                "move_name": "きりさく",
+                "level": 44
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "ペルシアン",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "かみつく",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 1
+            },
+            {
+                "move_name": "ネコにこばん",
+                "level": 17
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 37
+            },
+            {
+                "move_name": "きりさく",
+                "level": 51
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "コダック",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 28
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 31
+            },
+            {
+                "move_name": "ねんりき",
+                "level": 36
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 43
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 52
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "ゴルダック",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "ねんりき",
+                "level": 39
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 48
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 59
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "マンキー",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "からてチョップ",
+                "level": 15
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 21
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 27
+            },
+            {
+                "move_name": "ちきゅうなげ",
+                "level": 33
+            },
+            {
+                "move_name": "あばれる",
+                "level": 39
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "オコリザル",
+        "moves": [
+            {
+                "move_name": "からてチョップ",
+                "level": 1
+            },
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "みだれひっかき",
+                "level": 1
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 27
+            },
+            {
+                "move_name": "ちきゅうなげ",
+                "level": 37
+            },
+            {
+                "move_name": "あばれる",
+                "level": 46
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "ガーディ",
+        "moves": [
+            {
+                "move_name": "かみつく",
+                "level": 1
+            },
+            {
+                "move_name": "ほえる",
+                "level": 1
+            },
+            {
+                "move_name": "ひのこ",
+                "level": 18
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 23
+            },
+            {
+                "move_name": "とっしん",
+                "level": 30
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 39
+            },
+            {
+                "move_name": "かえんほうしゃ",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "name": "ウインディ",
+        "moves": [
+            {
+                "move_name": "とっしん",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "ほえる",
+                "level": 1
+            },
+            {
+                "move_name": "ひのこ",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "ニョロモ",
+        "moves": [
+            {
+                "move_name": "あわ",
+                "level": 1
+            },
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 16
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 19
+            },
+            {
+                "move_name": "おうふくビンタ",
+                "level": 25
+            },
+            {
+                "move_name": "のしかかり",
+                "level": 31
+            },
+            {
+                "move_name": "ドわすれ",
+                "level": 38
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 45
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "ニョロゾ",
+        "moves": [
+            {
+                "move_name": "みずでっぽう",
+                "level": 1
+            },
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 1
+            },
+            {
+                "move_name": "あわ",
+                "level": 1
+            },
+            {
+                "move_name": "おうふくビンタ",
+                "level": 26
+            },
+            {
+                "move_name": "のしかかり",
+                "level": 33
+            },
+            {
+                "move_name": "ドわすれ",
+                "level": 41
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 49
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "ニョロボン",
+        "moves": [
+            {
+                "move_name": "おうふくビンタ",
+                "level": 1
+            },
+            {
+                "move_name": "のしかかり",
+                "level": 1
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 1
+            },
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "name": "ケーシィ",
+        "moves": [
+            {
+                "move_name": "テレポート",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "name": "ユンゲラー",
+        "moves": [
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "ねんりき",
+                "level": 1
+            },
+            {
+                "move_name": "テレポート",
+                "level": 1
+            },
+            {
+                "move_name": "サイケこうせん",
+                "level": 27
+            },
+            {
+                "move_name": "じこさいせい",
+                "level": 31
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 38
+            },
+            {
+                "move_name": "リフレクター",
+                "level": 42
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "name": "フーディン",
+        "moves": [
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "ねんりき",
+                "level": 1
+            },
+            {
+                "move_name": "テレポート",
+                "level": 1
+            },
+            {
+                "move_name": "サイケこうせん",
+                "level": 27
+            },
+            {
+                "move_name": "じこさいせい",
+                "level": 31
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 38
+            },
+            {
+                "move_name": "リフレクター",
+                "level": 42
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "name": "ワンリキー",
+        "moves": [
+            {
+                "move_name": "からてチョップ",
+                "level": 1
+            },
+            {
+                "move_name": "けたぐり",
+                "level": 20
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 25
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 32
+            },
+            {
+                "move_name": "ちきゅうなげ",
+                "level": 39
+            },
+            {
+                "move_name": "じごくぐるま",
+                "level": 46
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "name": "ゴーリキー",
+        "moves": [
+            {
+                "move_name": "からてチョップ",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "けたぐり",
+                "level": 1
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 36
+            },
+            {
+                "move_name": "ちきゅうなげ",
+                "level": 44
+            },
+            {
+                "move_name": "じごくぐるま",
+                "level": 52
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "カイリキー",
+        "moves": [
+            {
+                "move_name": "からてチョップ",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "けたぐり",
+                "level": 1
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 36
+            },
+            {
+                "move_name": "ちきゅうなげ",
+                "level": 44
+            },
+            {
+                "move_name": "じごくぐるま",
+                "level": 52
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "name": "マダツボミ",
+        "moves": [
+            {
+                "move_name": "つるのムチ",
+                "level": 1
+            },
+            {
+                "move_name": "せいちょう",
+                "level": 1
+            },
+            {
+                "move_name": "まきつく",
+                "level": 13
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 15
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 18
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 21
+            },
+            {
+                "move_name": "ようかいえき",
+                "level": 26
+            },
+            {
+                "move_name": "はっぱカッター",
+                "level": 33
+            },
+            {
+                "move_name": "たたきつける",
+                "level": 42
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "name": "ウツドン",
+        "moves": [
+            {
+                "move_name": "つるのムチ",
+                "level": 1
+            },
+            {
+                "move_name": "まきつく",
+                "level": 1
+            },
+            {
+                "move_name": "せいちょう",
+                "level": 1
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 15
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 18
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 23
+            },
+            {
+                "move_name": "ようかいえき",
+                "level": 29
+            },
+            {
+                "move_name": "はっぱカッター",
+                "level": 38
+            },
+            {
+                "move_name": "たたきつける",
+                "level": 49
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "ウツボット",
+        "moves": [
+            {
+                "move_name": "ようかいえき",
+                "level": 1
+            },
+            {
+                "move_name": "はっぱカッター",
+                "level": 1
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 1
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 1
+            },
+            {
+                "move_name": "まきつく",
+                "level": 13
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 15
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "name": "メノクラゲ",
+        "moves": [
+            {
+                "move_name": "ようかいえき",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 7
+            },
+            {
+                "move_name": "まきつく",
+                "level": 13
+            },
+            {
+                "move_name": "どくばり",
+                "level": 18
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 22
+            },
+            {
+                "move_name": "からみつく",
+                "level": 27
+            },
+            {
+                "move_name": "バリアー",
+                "level": 33
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 40
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 48
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "name": "ドククラゲ",
+        "moves": [
+            {
+                "move_name": "まきつく",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 1
+            },
+            {
+                "move_name": "ようかいえき",
+                "level": 1
+            },
+            {
+                "move_name": "どくばり",
+                "level": 18
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 22
+            },
+            {
+                "move_name": "からみつく",
+                "level": 27
+            },
+            {
+                "move_name": "バリアー",
+                "level": 35
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 43
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "イシツブテ",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "まるくなる",
+                "level": 11
+            },
+            {
+                "move_name": "いわおとし",
+                "level": 16
+            },
+            {
+                "move_name": "じばく",
+                "level": 21
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 26
+            },
+            {
+                "move_name": "じしん",
+                "level": 31
+            },
+            {
+                "move_name": "だいばくはつ",
+                "level": 36
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "ゴローン",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "まるくなる",
+                "level": 1
+            },
+            {
+                "move_name": "いわおとし",
+                "level": 16
+            },
+            {
+                "move_name": "じばく",
+                "level": 21
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 29
+            },
+            {
+                "move_name": "じしん",
+                "level": 36
+            },
+            {
+                "move_name": "だいばくはつ",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "ゴローニャ",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "まるくなる",
+                "level": 1
+            },
+            {
+                "move_name": "いわおとし",
+                "level": 16
+            },
+            {
+                "move_name": "じばく",
+                "level": 21
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 29
+            },
+            {
+                "move_name": "じしん",
+                "level": 36
+            },
+            {
+                "move_name": "だいばくはつ",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "name": "ポニータ",
+        "moves": [
+            {
+                "move_name": "ひのこ",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 30
+            },
+            {
+                "move_name": "ふみつけ",
+                "level": 32
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 35
+            },
+            {
+                "move_name": "ほのおのうず",
+                "level": 39
+            },
+            {
+                "move_name": "とっしん",
+                "level": 43
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 48
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "name": "ギャロップ",
+        "moves": [
+            {
+                "move_name": "ふみつけ",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "ひのこ",
+                "level": 1
+            },
+            {
+                "move_name": "ほのおのうず",
+                "level": 39
+            },
+            {
+                "move_name": "とっしん",
+                "level": 47
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 55
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "name": "ヤドン",
+        "moves": [
+            {
+                "move_name": "ねんりき",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 18
+            },
+            {
+                "move_name": "ずつき",
+                "level": 22
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 27
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 33
+            },
+            {
+                "move_name": "ドわすれ",
+                "level": 40
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 48
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "ヤドラン",
+        "moves": [
+            {
+                "move_name": "ずつき",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "ねんりき",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 27
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 33
+            },
+            {
+                "move_name": "からにこもる",
+                "level": 37
+            },
+            {
+                "move_name": "ドわすれ",
+                "level": 44
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 55
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "コイル",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "ソニックブーム",
+                "level": 21
+            },
+            {
+                "move_name": "でんきショック",
+                "level": 25
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 29
+            },
+            {
+                "move_name": "でんじは",
+                "level": 35
+            },
+            {
+                "move_name": "スピードスター",
+                "level": 41
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 47
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "レアコイル",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "ソニックブーム",
+                "level": 1
+            },
+            {
+                "move_name": "でんきショック",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 29
+            },
+            {
+                "move_name": "でんじは",
+                "level": 38
+            },
+            {
+                "move_name": "スピードスター",
+                "level": 46
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "name": "カモネギ",
+        "moves": [
+            {
+                "move_name": "すなかけ",
+                "level": 1
+            },
+            {
+                "move_name": "つつく",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 7
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 15
+            },
+            {
+                "move_name": "つるぎのまい",
+                "level": 23
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 31
+            },
+            {
+                "move_name": "きりさく",
+                "level": 39
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "ドードー",
+        "moves": [
+            {
+                "move_name": "つつく",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 20
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 24
+            },
+            {
+                "move_name": "ドリルくちばし",
+                "level": 30
+            },
+            {
+                "move_name": "いかり",
+                "level": 36
+            },
+            {
+                "move_name": "トライアタック",
+                "level": 40
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 44
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "name": "ドードリオ",
+        "moves": [
+            {
+                "move_name": "みだれづき",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "つつく",
+                "level": 1
+            },
+            {
+                "move_name": "ドリルくちばし",
+                "level": 30
+            },
+            {
+                "move_name": "いかり",
+                "level": 39
+            },
+            {
+                "move_name": "トライアタック",
+                "level": 45
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 51
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "name": "パウワウ",
+        "moves": [
+            {
+                "move_name": "ずつき",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 30
+            },
+            {
+                "move_name": "オーロラビーム",
+                "level": 35
+            },
+            {
+                "move_name": "ねむる",
+                "level": 40
+            },
+            {
+                "move_name": "とっしん",
+                "level": 45
+            },
+            {
+                "move_name": "れいとうビーム",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "name": "ジュゴン",
+        "moves": [
+            {
+                "move_name": "ずつき",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "オーロラビーム",
+                "level": 1
+            },
+            {
+                "move_name": "ねむる",
+                "level": 44
+            },
+            {
+                "move_name": "とっしん",
+                "level": 50
+            },
+            {
+                "move_name": "れいとうビーム",
+                "level": 56
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "name": "ベトベター",
+        "moves": [
+            {
+                "move_name": "はたく",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "どくガス",
+                "level": 30
+            },
+            {
+                "move_name": "ちいさくなる",
+                "level": 33
+            },
+            {
+                "move_name": "ヘドロこうげき",
+                "level": 37
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 42
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 48
+            },
+            {
+                "move_name": "とける",
+                "level": 55
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "name": "ベトベトン",
+        "moves": [
+            {
+                "move_name": "はたく",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "どくガス",
+                "level": 1
+            },
+            {
+                "move_name": "ちいさくなる",
+                "level": 33
+            },
+            {
+                "move_name": "ヘドロこうげき",
+                "level": 37
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 45
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 53
+            },
+            {
+                "move_name": "とける",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "シェルダー",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "からにこもる",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 18
+            },
+            {
+                "move_name": "からではさむ",
+                "level": 23
+            },
+            {
+                "move_name": "オーロラビーム",
+                "level": 30
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 39
+            },
+            {
+                "move_name": "れいとうビーム",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "name": "パルシェン",
+        "moves": [
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 1
+            },
+            {
+                "move_name": "オーロラビーム",
+                "level": 1
+            },
+            {
+                "move_name": "からにこもる",
+                "level": 1
+            },
+            {
+                "move_name": "からではさむ",
+                "level": 1
+            },
+            {
+                "move_name": "とげキャノン",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "ゴース",
+        "moves": [
+            {
+                "move_name": "ナイトヘッド",
+                "level": 1
+            },
+            {
+                "move_name": "あやしいひかり",
+                "level": 1
+            },
+            {
+                "move_name": "したでなめる",
+                "level": 1
+            },
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 27
+            },
+            {
+                "move_name": "ゆめくい",
+                "level": 35
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "ゴースト",
+        "moves": [
+            {
+                "move_name": "ナイトヘッド",
+                "level": 1
+            },
+            {
+                "move_name": "あやしいひかり",
+                "level": 1
+            },
+            {
+                "move_name": "したでなめる",
+                "level": 1
+            },
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 29
+            },
+            {
+                "move_name": "ゆめくい",
+                "level": 38
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "ゲンガー",
+        "moves": [
+            {
+                "move_name": "ナイトヘッド",
+                "level": 1
+            },
+            {
+                "move_name": "あやしいひかり",
+                "level": 1
+            },
+            {
+                "move_name": "したでなめる",
+                "level": 1
+            },
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 29
+            },
+            {
+                "move_name": "ゆめくい",
+                "level": 38
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "イワーク",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 1
+            },
+            {
+                "move_name": "しめつける",
+                "level": 15
+            },
+            {
+                "move_name": "いわおとし",
+                "level": 19
+            },
+            {
+                "move_name": "いかり",
+                "level": 25
+            },
+            {
+                "move_name": "たたきつける",
+                "level": 33
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "name": "スリープ",
+        "moves": [
+            {
+                "move_name": "はたく",
+                "level": 1
+            },
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 12
+            },
+            {
+                "move_name": "ねんりき",
+                "level": 17
+            },
+            {
+                "move_name": "ずつき",
+                "level": 24
+            },
+            {
+                "move_name": "どくガス",
+                "level": 29
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 32
+            },
+            {
+                "move_name": "ヨガのポーズ",
+                "level": 37
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "スリーパー",
+        "moves": [
+            {
+                "move_name": "はたく",
+                "level": 1
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "ねんりき",
+                "level": 1
+            },
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 1
+            },
+            {
+                "move_name": "ずつき",
+                "level": 24
+            },
+            {
+                "move_name": "どくガス",
+                "level": 33
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 37
+            },
+            {
+                "move_name": "ヨガのポーズ",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "name": "クラブ",
+        "moves": [
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "あわ",
+                "level": 1
+            },
+            {
+                "move_name": "はさむ",
+                "level": 20
+            },
+            {
+                "move_name": "ハサミギロチン",
+                "level": 25
+            },
+            {
+                "move_name": "ふみつけ",
+                "level": 30
+            },
+            {
+                "move_name": "クラブハンマー",
+                "level": 35
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "name": "キングラー",
+        "moves": [
+            {
+                "move_name": "はさむ",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "あわ",
+                "level": 1
+            },
+            {
+                "move_name": "ハサミギロチン",
+                "level": 25
+            },
+            {
+                "move_name": "ふみつけ",
+                "level": 34
+            },
+            {
+                "move_name": "クラブハンマー",
+                "level": 42
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 49
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "ビリリダマ",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 1
+            },
+            {
+                "move_name": "ソニックブーム",
+                "level": 17
+            },
+            {
+                "move_name": "じばく",
+                "level": 22
+            },
+            {
+                "move_name": "ひかりのかべ",
+                "level": 29
+            },
+            {
+                "move_name": "スピードスター",
+                "level": 36
+            },
+            {
+                "move_name": "だいばくはつ",
+                "level": 43
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "マルマイン",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "ソニックブーム",
+                "level": 1
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 1
+            },
+            {
+                "move_name": "じばく",
+                "level": 22
+            },
+            {
+                "move_name": "ひかりのかべ",
+                "level": 29
+            },
+            {
+                "move_name": "スピードスター",
+                "level": 40
+            },
+            {
+                "move_name": "だいばくはつ",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "タマタマ",
+        "moves": [
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 1
+            },
+            {
+                "move_name": "たまなげ",
+                "level": 1
+            },
+            {
+                "move_name": "リフレクター",
+                "level": 25
+            },
+            {
+                "move_name": "やどりぎのタネ",
+                "level": 28
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 32
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 37
+            },
+            {
+                "move_name": "ソーラービーム",
+                "level": 42
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 48
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "ナッシー",
+        "moves": [
+            {
+                "move_name": "さいみんじゅつ",
+                "level": 1
+            },
+            {
+                "move_name": "たまなげ",
+                "level": 1
+            },
+            {
+                "move_name": "ふみつけ",
+                "level": 28
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "カラカラ",
+        "moves": [
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "ホネこんぼう",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 25
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 31
+            },
+            {
+                "move_name": "あばれる",
+                "level": 38
+            },
+            {
+                "move_name": "ホネブーメラン",
+                "level": 43
+            },
+            {
+                "move_name": "いかり",
+                "level": 46
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "ガラガラ",
+        "moves": [
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 1
+            },
+            {
+                "move_name": "ホネこんぼう",
+                "level": 1
+            },
+            {
+                "move_name": "あばれる",
+                "level": 41
+            },
+            {
+                "move_name": "ホネブーメラン",
+                "level": 48
+            },
+            {
+                "move_name": "いかり",
+                "level": 55
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "サワムラー",
+        "moves": [
+            {
+                "move_name": "にどげり",
+                "level": 1
+            },
+            {
+                "move_name": "ヨガのポーズ",
+                "level": 1
+            },
+            {
+                "move_name": "まわしげり",
+                "level": 33
+            },
+            {
+                "move_name": "とびげり",
+                "level": 38
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 43
+            },
+            {
+                "move_name": "とびひざげり",
+                "level": 48
+            },
+            {
+                "move_name": "メガトンキック",
+                "level": 53
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "エビワラー",
+        "moves": [
+            {
+                "move_name": "れんぞくパンチ",
+                "level": 1
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 1
+            },
+            {
+                "move_name": "ほのおのパンチ",
+                "level": 33
+            },
+            {
+                "move_name": "れいとうパンチ",
+                "level": 38
+            },
+            {
+                "move_name": "かみなりパンチ",
+                "level": 43
+            },
+            {
+                "move_name": "メガトンパンチ",
+                "level": 48
+            },
+            {
+                "move_name": "カウンター",
+                "level": 53
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "ベロリンガ",
+        "moves": [
+            {
+                "move_name": "まきつく",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 1
+            },
+            {
+                "move_name": "ふみつけ",
+                "level": 7
+            },
+            {
+                "move_name": "かなしばり",
+                "level": 15
+            },
+            {
+                "move_name": "まるくなる",
+                "level": 23
+            },
+            {
+                "move_name": "たたきつける",
+                "level": 31
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 39
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "ドガース",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "スモッグ",
+                "level": 1
+            },
+            {
+                "move_name": "ヘドロこうげき",
+                "level": 32
+            },
+            {
+                "move_name": "えんまく",
+                "level": 37
+            },
+            {
+                "move_name": "じばく",
+                "level": 40
+            },
+            {
+                "move_name": "くろいきり",
+                "level": 45
+            },
+            {
+                "move_name": "だいばくはつ",
+                "level": 48
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "マタドガス",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "スモッグ",
+                "level": 1
+            },
+            {
+                "move_name": "ヘドロこうげき",
+                "level": 1
+            },
+            {
+                "move_name": "えんまく",
+                "level": 39
+            },
+            {
+                "move_name": "じばく",
+                "level": 43
+            },
+            {
+                "move_name": "くろいきり",
+                "level": 49
+            },
+            {
+                "move_name": "だいばくはつ",
+                "level": 53
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "name": "サイホーン",
+        "moves": [
+            {
+                "move_name": "つのでつく",
+                "level": 1
+            },
+            {
+                "move_name": "ふみつけ",
+                "level": 30
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 35
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 40
+            },
+            {
+                "move_name": "つのドリル",
+                "level": 45
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 50
+            },
+            {
+                "move_name": "とっしん",
+                "level": 55
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "name": "サイドン",
+        "moves": [
+            {
+                "move_name": "ふみつけ",
+                "level": 1
+            },
+            {
+                "move_name": "つのでつく",
+                "level": 1
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "つのドリル",
+                "level": 48
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 55
+            },
+            {
+                "move_name": "とっしん",
+                "level": 64
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "name": "ラッキー",
+        "moves": [
+            {
+                "move_name": "はたく",
+                "level": 1
+            },
+            {
+                "move_name": "おうふくビンタ",
+                "level": 1
+            },
+            {
+                "move_name": "うたう",
+                "level": 24
+            },
+            {
+                "move_name": "なきごえ",
+                "level": 30
+            },
+            {
+                "move_name": "ちいさくなる",
+                "level": 38
+            },
+            {
+                "move_name": "まるくなる",
+                "level": 44
+            },
+            {
+                "move_name": "ひかりのかべ",
+                "level": 48
+            },
+            {
+                "move_name": "すてみタックル",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "モンジャラ",
+        "moves": [
+            {
+                "move_name": "しめつける",
+                "level": 1
+            },
+            {
+                "move_name": "からみつく",
+                "level": 1
+            },
+            {
+                "move_name": "すいとる",
+                "level": 29
+            },
+            {
+                "move_name": "どくのこな",
+                "level": 32
+            },
+            {
+                "move_name": "しびれごな",
+                "level": 36
+            },
+            {
+                "move_name": "ねむりごな",
+                "level": 39
+            },
+            {
+                "move_name": "たたきつける",
+                "level": 45
+            },
+            {
+                "move_name": "せいちょう",
+                "level": 49
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "ガルーラ",
+        "moves": [
+            {
+                "move_name": "れんぞくパンチ",
+                "level": 1
+            },
+            {
+                "move_name": "いかり",
+                "level": 1
+            },
+            {
+                "move_name": "かみつく",
+                "level": 26
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 31
+            },
+            {
+                "move_name": "メガトンパンチ",
+                "level": 36
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 41
+            },
+            {
+                "move_name": "ピヨピヨパンチ",
+                "level": 46
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "タッツー",
+        "moves": [
+            {
+                "move_name": "あわ",
+                "level": 1
+            },
+            {
+                "move_name": "えんまく",
+                "level": 19
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 24
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 30
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 37
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 45
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "name": "シードラ",
+        "moves": [
+            {
+                "move_name": "えんまく",
+                "level": 1
+            },
+            {
+                "move_name": "あわ",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 24
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 30
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 41
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 52
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "name": "トサキント",
+        "moves": [
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "つつく",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 19
+            },
+            {
+                "move_name": "つのでつく",
+                "level": 24
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 30
+            },
+            {
+                "move_name": "たきのぼり",
+                "level": 37
+            },
+            {
+                "move_name": "つのドリル",
+                "level": 45
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "アズマオウ",
+        "moves": [
+            {
+                "move_name": "しっぽをふる",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 1
+            },
+            {
+                "move_name": "つつく",
+                "level": 1
+            },
+            {
+                "move_name": "つのでつく",
+                "level": 24
+            },
+            {
+                "move_name": "みだれづき",
+                "level": 30
+            },
+            {
+                "move_name": "たきのぼり",
+                "level": 39
+            },
+            {
+                "move_name": "つのドリル",
+                "level": 48
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "ヒトデマン",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 17
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 22
+            },
+            {
+                "move_name": "じこさいせい",
+                "level": 27
+            },
+            {
+                "move_name": "スピードスター",
+                "level": 32
+            },
+            {
+                "move_name": "ちいさくなる",
+                "level": 37
+            },
+            {
+                "move_name": "ひかりのかべ",
+                "level": 42
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 47
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "name": "スターミー",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 1
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "name": "バリヤード",
+        "moves": [
+            {
+                "move_name": "ねんりき",
+                "level": 1
+            },
+            {
+                "move_name": "バリアー",
+                "level": 1
+            },
+            {
+                "move_name": "ひかりのかべ",
+                "level": 23
+            },
+            {
+                "move_name": "おうふくビンタ",
+                "level": 31
+            },
+            {
+                "move_name": "ヨガのポーズ",
+                "level": 39
+            },
+            {
+                "move_name": "みがわり",
+                "level": 47
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "ストライク",
+        "moves": [
+            {
+                "move_name": "でんこうせっか",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 17
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 20
+            },
+            {
+                "move_name": "かげぶんしん",
+                "level": 24
+            },
+            {
+                "move_name": "きりさく",
+                "level": 29
+            },
+            {
+                "move_name": "つるぎのまい",
+                "level": 35
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 42
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "ルージュラ",
+        "moves": [
+            {
+                "move_name": "はたく",
+                "level": 1
+            },
+            {
+                "move_name": "あくまのキッス",
+                "level": 1
+            },
+            {
+                "move_name": "したでなめる",
+                "level": 18
+            },
+            {
+                "move_name": "おうふくビンタ",
+                "level": 23
+            },
+            {
+                "move_name": "れいとうパンチ",
+                "level": 31
+            },
+            {
+                "move_name": "のしかかり",
+                "level": 39
+            },
+            {
+                "move_name": "あばれる",
+                "level": 47
+            },
+            {
+                "move_name": "ふぶき",
+                "level": 58
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "エレブー",
+        "moves": [
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 1
+            },
+            {
+                "move_name": "でんきショック",
+                "level": 34
+            },
+            {
+                "move_name": "いやなおと",
+                "level": 37
+            },
+            {
+                "move_name": "かみなりパンチ",
+                "level": 42
+            },
+            {
+                "move_name": "ひかりのかべ",
+                "level": 49
+            },
+            {
+                "move_name": "かみなり",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "ブーバー",
+        "moves": [
+            {
+                "move_name": "ひのこ",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 36
+            },
+            {
+                "move_name": "あやしいひかり",
+                "level": 39
+            },
+            {
+                "move_name": "ほのおのパンチ",
+                "level": 43
+            },
+            {
+                "move_name": "えんまく",
+                "level": 48
+            },
+            {
+                "move_name": "スモッグ",
+                "level": 52
+            },
+            {
+                "move_name": "かえんほうしゃ",
+                "level": 55
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "name": "カイロス",
+        "moves": [
+            {
+                "move_name": "はさむ",
+                "level": 1
+            },
+            {
+                "move_name": "ちきゅうなげ",
+                "level": 25
+            },
+            {
+                "move_name": "ハサミギロチン",
+                "level": 30
+            },
+            {
+                "move_name": "きあいだめ",
+                "level": 36
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 43
+            },
+            {
+                "move_name": "きりさく",
+                "level": 49
+            },
+            {
+                "move_name": "つるぎのまい",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "name": "ケンタロス",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "ふみつけ",
+                "level": 21
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 28
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 35
+            },
+            {
+                "move_name": "いかり",
+                "level": 44
+            },
+            {
+                "move_name": "とっしん",
+                "level": 51
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "name": "コイキング",
+        "moves": [
+            {
+                "move_name": "はねる",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 15
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "ギャラドス",
+        "moves": [
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "かみつく",
+                "level": 1
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 1
+            },
+            {
+                "move_name": "りゅうのいかり",
+                "level": 1
+            },
+            {
+                "move_name": "はかいこうせん",
+                "level": 52
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "name": "ラプラス",
+        "moves": [
+            {
+                "move_name": "なきごえ",
+                "level": 1
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 1
+            },
+            {
+                "move_name": "うたう",
+                "level": 16
+            },
+            {
+                "move_name": "しろいきり",
+                "level": 20
+            },
+            {
+                "move_name": "のしかかり",
+                "level": 25
+            },
+            {
+                "move_name": "あやしいひかり",
+                "level": 31
+            },
+            {
+                "move_name": "れいとうビーム",
+                "level": 38
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 46
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "メタモン",
+        "moves": [
+            {
+                "move_name": "へんしん",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "name": "イーブイ",
+        "moves": [
+            {
+                "move_name": "すなかけ",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 27
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 31
+            },
+            {
+                "move_name": "かみつく",
+                "level": 37
+            },
+            {
+                "move_name": "とっしん",
+                "level": 45
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "name": "シャワーズ",
+        "moves": [
+            {
+                "move_name": "すなかけ",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 37
+            },
+            {
+                "move_name": "かみつく",
+                "level": 40
+            },
+            {
+                "move_name": "とける",
+                "level": 42
+            },
+            {
+                "move_name": "くろいきり",
+                "level": 44
+            },
+            {
+                "move_name": "しろいきり",
+                "level": 48
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "name": "サンダース",
+        "moves": [
+            {
+                "move_name": "すなかけ",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "でんきショック",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 37
+            },
+            {
+                "move_name": "でんじは",
+                "level": 40
+            },
+            {
+                "move_name": "にどげり",
+                "level": 42
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 44
+            },
+            {
+                "move_name": "ミサイルばり",
+                "level": 48
+            },
+            {
+                "move_name": "かみなり",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "name": "ブースター",
+        "moves": [
+            {
+                "move_name": "すなかけ",
+                "level": 1
+            },
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "ひのこ",
+                "level": 1
+            },
+            {
+                "move_name": "でんこうせっか",
+                "level": 1
+            },
+            {
+                "move_name": "しっぽをふる",
+                "level": 37
+            },
+            {
+                "move_name": "かみつく",
+                "level": 40
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 42
+            },
+            {
+                "move_name": "ほのおのうず",
+                "level": 44
+            },
+            {
+                "move_name": "いかり",
+                "level": 48
+            },
+            {
+                "move_name": "かえんほうしゃ",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "name": "ポリゴン",
+        "moves": [
+            {
+                "move_name": "たいあたり",
+                "level": 1
+            },
+            {
+                "move_name": "かくばる",
+                "level": 1
+            },
+            {
+                "move_name": "テクスチャー",
+                "level": 1
+            },
+            {
+                "move_name": "サイケこうせん",
+                "level": 23
+            },
+            {
+                "move_name": "じこさいせい",
+                "level": 28
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 35
+            },
+            {
+                "move_name": "トライアタック",
+                "level": 42
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "name": "オムナイト",
+        "moves": [
+            {
+                "move_name": "みずでっぽう",
+                "level": 1
+            },
+            {
+                "move_name": "からにこもる",
+                "level": 1
+            },
+            {
+                "move_name": "つのでつく",
+                "level": 34
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 39
+            },
+            {
+                "move_name": "とげキャノン",
+                "level": 46
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 53
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "name": "オムスター",
+        "moves": [
+            {
+                "move_name": "つのでつく",
+                "level": 1
+            },
+            {
+                "move_name": "みずでっぽう",
+                "level": 1
+            },
+            {
+                "move_name": "からにこもる",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 39
+            },
+            {
+                "move_name": "とげキャノン",
+                "level": 44
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 49
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "カブト",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 1
+            },
+            {
+                "move_name": "すいとる",
+                "level": 34
+            },
+            {
+                "move_name": "きりさく",
+                "level": 39
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 44
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 49
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "name": "カブトプス",
+        "moves": [
+            {
+                "move_name": "ひっかく",
+                "level": 1
+            },
+            {
+                "move_name": "すいとる",
+                "level": 1
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 1
+            },
+            {
+                "move_name": "きりさく",
+                "level": 39
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 46
+            },
+            {
+                "move_name": "ハイドロポンプ",
+                "level": 53
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "name": "プテラ",
+        "moves": [
+            {
+                "move_name": "つばさでうつ",
+                "level": 1
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 1
+            },
+            {
+                "move_name": "ちょうおんぱ",
+                "level": 33
+            },
+            {
+                "move_name": "かみつく",
+                "level": 38
+            },
+            {
+                "move_name": "とっしん",
+                "level": 45
+            },
+            {
+                "move_name": "はかいこうせん",
+                "level": 54
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "name": "カビゴン",
+        "moves": [
+            {
+                "move_name": "ずつき",
+                "level": 1
+            },
+            {
+                "move_name": "ドわすれ",
+                "level": 1
+            },
+            {
+                "move_name": "ねむる",
+                "level": 1
+            },
+            {
+                "move_name": "のしかかり",
+                "level": 35
+            },
+            {
+                "move_name": "かたくなる",
+                "level": 41
+            },
+            {
+                "move_name": "すてみタックル",
+                "level": 48
+            },
+            {
+                "move_name": "はかいこうせん",
+                "level": 56
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "name": "フリーザー",
+        "moves": [
+            {
+                "move_name": "れいとうビーム",
+                "level": 1
+            },
+            {
+                "move_name": "つつく",
+                "level": 1
+            },
+            {
+                "move_name": "ふぶき",
+                "level": 51
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 55
+            },
+            {
+                "move_name": "しろいきり",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "サンダー",
+        "moves": [
+            {
+                "move_name": "ドリルくちばし",
+                "level": 1
+            },
+            {
+                "move_name": "でんきショック",
+                "level": 1
+            },
+            {
+                "move_name": "かみなり",
+                "level": 51
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 55
+            },
+            {
+                "move_name": "ひかりのかべ",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "name": "ファイヤー",
+        "moves": [
+            {
+                "move_name": "つつく",
+                "level": 1
+            },
+            {
+                "move_name": "ほのおのうず",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 51
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 55
+            },
+            {
+                "move_name": "ゴッドバード",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "name": "ミニリュウ",
+        "moves": [
+            {
+                "move_name": "まきつく",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "でんじは",
+                "level": 10
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 20
+            },
+            {
+                "move_name": "たたきつける",
+                "level": 30
+            },
+            {
+                "move_name": "りゅうのいかり",
+                "level": 40
+            },
+            {
+                "move_name": "はかいこうせん",
+                "level": 50
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "name": "ハクリュー",
+        "moves": [
+            {
+                "move_name": "まきつく",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "でんじは",
+                "level": 1
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 20
+            },
+            {
+                "move_name": "たたきつける",
+                "level": 35
+            },
+            {
+                "move_name": "りゅうのいかり",
+                "level": 45
+            },
+            {
+                "move_name": "はかいこうせん",
+                "level": 55
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "name": "カイリュー",
+        "moves": [
+            {
+                "move_name": "まきつく",
+                "level": 1
+            },
+            {
+                "move_name": "にらみつける",
+                "level": 1
+            },
+            {
+                "move_name": "でんじは",
+                "level": 1
+            },
+            {
+                "move_name": "こうそくいどう",
+                "level": 1
+            },
+            {
+                "move_name": "たたきつける",
+                "level": 35
+            },
+            {
+                "move_name": "りゅうのいかり",
+                "level": 45
+            },
+            {
+                "move_name": "はかいこうせん",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "name": "ミュウツー",
+        "moves": [
+            {
+                "move_name": "かなしばり",
+                "level": 1
+            },
+            {
+                "move_name": "ねんりき",
+                "level": 1
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 1
+            },
+            {
+                "move_name": "スピードスター",
+                "level": 1
+            },
+            {
+                "move_name": "バリアー",
+                "level": 63
+            },
+            {
+                "move_name": "じこさいせい",
+                "level": 70
+            },
+            {
+                "move_name": "しろいきり",
+                "level": 75
+            },
+            {
+                "move_name": "ドわすれ",
+                "level": 81
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "name": "ミュウ",
+        "moves": [
+            {
+                "move_name": "はたく",
+                "level": 1
+            },
+            {
+                "move_name": "へんしん",
+                "level": 10
+            },
+            {
+                "move_name": "メガトンパンチ",
+                "level": 20
+            },
+            {
+                "move_name": "ゆびをふる",
+                "level": 30
+            },
+            {
+                "move_name": "サイコキネシス",
+                "level": 40
+            }
+        ]
+    }
+]
