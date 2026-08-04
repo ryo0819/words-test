@@ -9,6 +9,6 @@ interface QuestionCardProps {
   disabled?: boolean;
 }
 
-export const QuestionCard: React.FC<QuestionCardProps> = () => {
-  return null;
+export const QuestionCard: React.FC<QuestionCardProps> = ({ question }) => {
+  return <div>{question?.pokemon}</div>;
 };

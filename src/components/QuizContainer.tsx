@@ -7,6 +7,6 @@ interface QuizContainerProps {
   question?: QuizItem;
 }
 
-export const QuizContainer: React.FC<QuizContainerProps> = () => {
-  return null;
+export const QuizContainer: React.FC<QuizContainerProps> = ({ status }) => {
+  return <div>{status}</div>;
 };
